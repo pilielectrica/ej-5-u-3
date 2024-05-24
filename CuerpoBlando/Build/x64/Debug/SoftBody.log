@@ -1,0 +1,4 @@
+﻿  Game.cpp
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej5 Pilar Marco\CuerpoBlando\Src\Game.cpp(106,79): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej5 Pilar Marco\CuerpoBlando\Src\Game.cpp(111,81): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  SoftBody.vcxproj -> D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej5 Pilar Marco\CuerpoBlando\Bin\Debug\SoftBody.exe
